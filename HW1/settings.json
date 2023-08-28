@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "vector": "c",
+        "iterator": "c",
+        "optional": "c",
+        "system_error": "c",
+        "array": "c",
+        "functional": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "istream": "c",
+        "ostream": "c",
+        "float.h": "c"
+    }
+}
